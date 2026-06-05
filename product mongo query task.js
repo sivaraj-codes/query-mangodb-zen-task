@@ -195,6 +195,9 @@ db.products.findOne({ id: "10" });
 db.products.findOne({ id: "10" }, { product_name: 1, product_material: 1 });
 //Find all products which contain the value of soft in product material
 db.products.find({ product_material: "Soft" });
+db.products.find({
+  product_material: /soft/i
+});
 //Find products which contain product color indigo  and product price 492.00
 db.products.find({ product_color: "indigo", product_price: 492.0 });
 //Delete the products which product price value are same
