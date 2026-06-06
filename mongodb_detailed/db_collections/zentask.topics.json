@@ -1,0 +1,130 @@
+[{
+  "_id": 1,
+  "batchId": 1,
+  "topic": "HTML & CSS Basics",
+  "taughtDate": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "Frontend"
+},
+{
+  "_id": 2,
+  "batchId": 2,
+  "topic": "HTML & CSS Basics",
+  "taughtDate": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "Frontend"
+},
+{
+  "_id": 3,
+  "batchId": 1,
+  "topic": "JavaScript Fundamentals",
+  "taughtDate": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "JavaScript"
+},
+{
+  "_id": 4,
+  "batchId": 2,
+  "topic": "JavaScript Fundamentals",
+  "taughtDate": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "JavaScript"
+},
+{
+  "_id": 5,
+  "batchId": 1,
+  "topic": "React Introduction",
+  "taughtDate": {
+    "$date": "2020-10-21T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-21T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "React"
+},
+{
+  "_id": 6,
+  "batchId": 2,
+  "topic": "React Introduction",
+  "taughtDate": {
+    "$date": "2020-10-21T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-21T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "React"
+},
+{
+  "_id": 7,
+  "batchId": 1,
+  "topic": "MongoDB",
+  "taughtDate": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "Database"
+},
+{
+  "_id": 8,
+  "batchId": 2,
+  "topic": "MongoDB",
+  "taughtDate": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "Database"
+},
+{
+  "_id": 9,
+  "batchId": 1,
+  "topic": "Aggregation Pipeline",
+  "taughtDate": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "Database"
+},
+{
+  "_id": 10,
+  "batchId": 2,
+  "topic": "Aggregation Pipeline",
+  "taughtDate": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "scheduledDate": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  },
+  "courseId": 1,
+  "subCourse": "Database"
+}]

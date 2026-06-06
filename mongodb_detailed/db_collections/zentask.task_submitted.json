@@ -1,0 +1,45 @@
+[{
+  "_id": 1,
+  "userId": 3,
+  "taskId": 1,
+  "submitted": true,
+  "submittedDate": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": 2,
+  "userId": 11,
+  "taskId": 3,
+  "submitted": true,
+  "submittedDate": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": 3,
+  "userId": 18,
+  "taskId": 2,
+  "submitted": true,
+  "submittedDate": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "userId": 27,
+  "taskId": 5,
+  "submitted": true,
+  "submittedDate": {
+    "$date": "2020-10-26T00:00:00.000Z"
+  }
+},
+{
+  "_id": 5,
+  "userId": 35,
+  "taskId": 4,
+  "submitted": true,
+  "submittedDate": {
+    "$date": "2020-10-29T00:00:00.000Z"
+  }
+}]

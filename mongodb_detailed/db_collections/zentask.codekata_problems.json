@@ -1,0 +1,120 @@
+[{
+  "_id": 1,
+  "title": "Create a simple HTML page",
+  "topicId": 1,
+  "description": "Create page with heading and paragraph"
+},
+{
+  "_id": 2,
+  "title": "Center a div",
+  "topicId": 1,
+  "description": "Use CSS to center content"
+},
+{
+  "_id": 3,
+  "title": "Create a simple HTML page",
+  "topicId": 2,
+  "description": "Create page with heading and paragraph"
+},
+{
+  "_id": 4,
+  "title": "Center a div",
+  "topicId": 2,
+  "description": "Use CSS to center content"
+},
+{
+  "_id": 5,
+  "title": "Difference between var let const",
+  "topicId": 3,
+  "description": "Explain with examples"
+},
+{
+  "_id": 6,
+  "title": "Reverse a string",
+  "topicId": 3,
+  "description": "Implement reverse function"
+},
+{
+  "_id": 7,
+  "title": "Difference between var let const",
+  "topicId": 4,
+  "description": "Explain with examples"
+},
+{
+  "_id": 8,
+  "title": "Reverse a string",
+  "topicId": 4,
+  "description": "Implement reverse function"
+},
+{
+  "_id": 9,
+  "title": "Why this counter doesn't update?",
+  "topicId": 5,
+  "description": "Fix state update issue"
+},
+{
+  "_id": 10,
+  "title": "Create a reusable button component",
+  "topicId": 5,
+  "description": "Build reusable component"
+},
+{
+  "_id": 11,
+  "title": "Why this counter doesn't update?",
+  "topicId": 6,
+  "description": "Fix state update issue"
+},
+{
+  "_id": 12,
+  "title": "Create a reusable button component",
+  "topicId": 6,
+  "description": "Build reusable component"
+},
+{
+  "_id": 13,
+  "title": "Create users collection",
+  "topicId": 7,
+  "description": "Insert sample documents"
+},
+{
+  "_id": 14,
+  "title": "Find documents with filter",
+  "topicId": 7,
+  "description": "Write queries"
+},
+{
+  "_id": 15,
+  "title": "Create users collection",
+  "topicId": 8,
+  "description": "Insert sample documents"
+},
+{
+  "_id": 16,
+  "title": "Aggregation count users",
+  "topicId": 8,
+  "description": "Group users and count"
+},
+{
+  "_id": 17,
+  "title": "Group users by status",
+  "topicId": 9,
+  "description": "Use aggregation pipeline"
+},
+{
+  "_id": 18,
+  "title": "Find average marks",
+  "topicId": 9,
+  "description": "Use group stage"
+},
+{
+  "_id": 19,
+  "title": "Group users by status",
+  "topicId": 10,
+  "description": "Use aggregation pipeline"
+},
+{
+  "_id": 20,
+  "title": "Find average marks",
+  "topicId": 10,
+  "description": "Use group stage"
+}]
